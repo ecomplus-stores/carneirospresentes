@@ -20,14 +20,7 @@
     "email": true,
     "address": true
   },
-  "stamps": [
-    {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection",
-      "width": 150,
-      "height": 62
-    }
-  ],
+  "stamps": [],
   "payment_methods": {
     "pix": true,
     "visa": true,
