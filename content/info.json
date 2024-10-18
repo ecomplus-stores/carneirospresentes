@@ -2,12 +2,12 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "link": "Parcelamos suas compras"
+    "link": ""
   },
   "installments": {
     "show": true,
-    "text": "",
-    "title": "Parcelamos suas compras"
+    "text": "Parcelamos suas compras",
+    "title": ""
   },
   "exchange": {
     "show": false,
