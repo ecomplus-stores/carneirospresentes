@@ -4,15 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 8000,
       "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/2-0.png",
           "link": "/headset",
           "alt": "Frete Grátis nas compras acima de R$200,00/ PR, SP e SC.",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
+          "start": "",
+          "end": "",
           "mobile_img": "/img/uploads/2-0.png"
         },
         {
