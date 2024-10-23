@@ -6,9 +6,9 @@
     },
     {
       "type": "product-block",
-      "enabled": true,
+      "enabled": false,
       "size_guide": {
-        "image": "/img/uploads/banner-nuvem-pc.png",
+        "image": "",
         "title": ""
       }
     },
