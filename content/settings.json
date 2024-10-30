@@ -1,7 +1,7 @@
 {
   "domain": "https://carneirospresentes-d58f5.web.app/",
   "currency_symbol": "R$",
-  "primary_color": "#f495ae",
+  "primary_color": "#7c4f39",
   "theme": {
     "bootswatch": "minty",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/fotos-catalogo-e-site.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#704029",
+  "secondary_color": "#ffadc2",
   "icon": "/img/uploads/fotos-catalogo-e-site.png",
   "store_id": 51554,
   "description": "Há 5 anos encantando clientes \nCRIAMOS PRESENTES QUE EMOCIONAM ",
