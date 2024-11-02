@@ -60,6 +60,13 @@
       "type": "page-title",
       "title": "Loja Carneiros Presentes",
       "description": "Loja de presentes criativos e únicos, que emocionam quem recebe."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "672633cc86609e53f867717e:categories:Papelaria JW Teocráticos:/papelaria-jw-teocraticos"
     }
   ]
 }
