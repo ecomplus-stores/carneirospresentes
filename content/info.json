@@ -1,8 +1,9 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo o Brasil",
-    "link": ""
+    "text": "Conheça as regras",
+    "link": "",
+    "title": "Frete Grátis"
   },
   "installments": {
     "show": true,
