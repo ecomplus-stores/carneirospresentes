@@ -36,9 +36,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "671ac4520a4e586d936f76e8:categories:Cadernetas de Vacinas:/cadernetas-de-vacinas",
-      "sort": "views",
-      "title": "Caderneta de Vacinas "
+      "collection_id": "672633cc86609e53f867717e:categories:Papelaria JW Teocráticos:/papelaria-jw-teocraticos"
     },
     {
       "type": "collection-shelf",
@@ -47,6 +45,15 @@
       "page": 1,
       "sort": "views",
       "collection_id": "6712d63c0a4e586d9366f583:categories:Planner / Agendas:/planner-agendas"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "671ac4520a4e586d936f76e8:categories:Cadernetas de Vacinas:/cadernetas-de-vacinas",
+      "sort": "views",
+      "title": "Caderneta de Vacinas "
     },
     {
       "type": "collection-shelf",
@@ -66,7 +73,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "672633cc86609e53f867717e:categories:Papelaria JW Teocráticos:/papelaria-jw-teocraticos"
+      "sort": "views",
+      "collection_id": "671965130a4e586d936dc6e4:categories:Quadros:/quadros"
     }
   ]
 }
