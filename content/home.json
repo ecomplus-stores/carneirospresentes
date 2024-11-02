@@ -36,7 +36,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "collection_id": "672633cc86609e53f867717e:categories:Papelaria JW Teocráticos:/papelaria-jw-teocraticos"
+      "collection_id": "672633cc86609e53f867717e:categories:Papelaria JW Teocráticos:/papelaria-jw-teocraticos",
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
@@ -64,17 +65,17 @@
       "collection_id": "671964c00a4e586d936dc671:categories:Canecas:/canecas"
     },
     {
-      "type": "page-title",
-      "title": "Loja Carneiros Presentes",
-      "description": "Loja de presentes criativos e únicos, que emocionam quem recebe."
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
       "page": 1,
       "sort": "views",
       "collection_id": "671965130a4e586d936dc6e4:categories:Quadros:/quadros"
+    },
+    {
+      "type": "page-title",
+      "title": "Loja Carneiros Presentes",
+      "description": "Loja de presentes criativos e únicos, que emocionam quem recebe."
     }
   ]
 }
