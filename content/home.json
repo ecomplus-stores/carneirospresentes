@@ -44,7 +44,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": null,
       "collection_id": "6712d63c0a4e586d9366f583:categories:Planner / Agendas:/planner-agendas"
     },
     {
