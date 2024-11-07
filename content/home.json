@@ -61,7 +61,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": null,
       "collection_id": "671964c00a4e586d936dc671:categories:Canecas:/canecas"
     },
     {
