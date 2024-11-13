@@ -1,7 +1,7 @@
 {
   "domain": "carneirospresentes.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#7c4f39",
+  "primary_color": "#ea8ca4",
   "theme": {
     "bootswatch": "cosmo",
     "custom": "_"
