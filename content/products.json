@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
@@ -14,17 +18,13 @@
       "enabled": true
     },
     {
-      "type": "breadcrumbs",
-      "enabled": true
+      "type": "recommended-products",
+      "title": "Quem comprou este produto, também comprou:",
+      "show_loading": true
     },
     {
       "type": "related-products",
       "title": "Produtos relacionados"
-    },
-    {
-      "type": "recommended-products",
-      "title": "Quem comprou este produto, também comprou:",
-      "show_loading": true
     }
   ]
 }
