@@ -1,9 +1,9 @@
 {
   "shipping": {
     "show": true,
-    "text": "Conheça as regras",
+    "text": "compras acima de R$200,00 (SP, SC e PR)",
     "link": "",
-    "title": "Frete Grátis"
+    "title": "Frete Grátis para"
   },
   "installments": {
     "show": true,
