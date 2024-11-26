@@ -16,6 +16,7 @@
   },
   "promo": {
     "show": true,
-    "text": "Para 5% de desconto use o cupom PRIMEIRACOMPRA"
+    "text": " use o cupom PRIMEIRACOMPRA",
+    "title": "Para 5% de desconto"
   }
 }
